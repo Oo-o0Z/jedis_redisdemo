@@ -11,7 +11,7 @@ import java.util.Random;
 public class PhoneCode {
 
     public static void main(String[] args) {
-
+        System.out.println("second commit");
     }
 
     public static void verifyCode(String phone, String code) {
